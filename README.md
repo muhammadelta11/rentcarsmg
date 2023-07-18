@@ -1,2 +1,0 @@
-# rentcarsmg
-website
